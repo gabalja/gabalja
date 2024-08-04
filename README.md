@@ -1,7 +1,7 @@
 <div style="margin: 0 auto; padding: 10%; text-align: center;" align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Uiseong Sohn </h2>
     <p style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Currently interested in Backend Development / DevOps Engineering </p>
-    <a href="https://velog.io/@gabalja/posts" style="display: inline-block; margin-top: 20px;"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@gabalja/posts"> </a>
+    <a href="https://velog.io/@cklog/posts" style="display: inline-block; margin-top: 20px;"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@cklog/posts"> </a>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
